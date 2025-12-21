@@ -40,6 +40,6 @@ I provide my best to gain your trust and your satisfaction through my work.
 
 
 
-[![LinkedIn](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-miraj-hossen/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6fda44?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-miraj-hossen/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016e4ade586386f321?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/GzWBvP7)
