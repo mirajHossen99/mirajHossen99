@@ -1,9 +1,9 @@
 ## About Me
 
-### Full Stack Developer | MERN Stack Developer | React, Next,js & Node.js Developer
+### Software Engineer | Back-End Developer | React, Next,js & Node.js Developer
 
 Hello,
-I bring expertise in **Full Stack Development**, **MERN Stack**, and **Custom Software development**. I help businesses and startups turn their ideas into functional, high-performing digital solutions. With **3 years** of hands-on experience, I've honed my skills in crafting robust, scalable, and efficient web applications.
+I bring expertise in **Software Engineer**, **MERN Stack**, and **Custom Software development**. I help businesses and startups turn their ideas into functional, high-performing digital solutions. With **3 years** of hands-on experience, I've honed my skills in crafting robust, scalable, and efficient web applications.
 I have completed a B.S.C in **Computer Science & Engineering** from United International University.
 
 #### 💻 What I Do:
@@ -41,5 +41,5 @@ I provide my best to gain your trust and your satisfaction through my work.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/md-miraj-hossen/)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~016e4ade586386f321?mp_source=share)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/GzWBvP7)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
