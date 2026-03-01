@@ -26,7 +26,7 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 #### 📌 Tech Stack & Tools:
 
 **:globe_with_meridians: Front-end**: React, Next.js, Redux, TailwindCSS, Bootstrap\
-**:gear: Back-end**: Node.js, Express.js, REST APIs, GraphQL\
+**:gear: Back-end**: Node.js, Nest.js Express.js, REST APIs, GraphQL\
 **:file_cabinet: Database**: MongoDB (Mongoose), Firestore, MySQL, PostgreSQL\
 **:toolbox: Other Tools**: Git, Docker, Postman, Firebase & Supabase
 
