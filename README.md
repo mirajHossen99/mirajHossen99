@@ -27,8 +27,8 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 
 **:globe_with_meridians: Front-end**: React, Next.js, Redux, TailwindCSS, Bootstrap\
 **:gear: Back-end**: Node.js, Nest.js Express.js, REST APIs, GraphQL\
-**:file_cabinet: Database**: MongoDB (Mongoose), Firestore, MySQL, PostgreSQL\
-**:toolbox: Other Tools**: Git, Docker, Postman, Firebase & Supabase
+**:file_cabinet: Database**: MongoDB (Mongoose), Redis, Firestore, MySQL, PostgreSQL\
+**:toolbox: Other Tools**: Git, Docker, RabbitMQ, KONG, Postman, Firebase & Supabase
 
 **🛠️ Version Control & Tools: Git, GitHub, Jira, Postman, VS Code**
 
@@ -39,7 +39,7 @@ I provide my best to gain your trust and your satisfaction through my work.
 #### 🚀 Let’s collaborate and build something amazing!
 
 
-
+[![My Portfolio]](https://miraj-hossen-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/md-miraj-hossen/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/)
