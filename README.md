@@ -27,7 +27,8 @@ I have completed a B.S.C in **Computer Science & Engineering** from United Inter
 
 **:globe_with_meridians: Front-end**: React, Next.js, Redux, TailwindCSS, Bootstrap\
 **:gear: Back-end**: Node.js, Nest.js Express.js, REST APIs, GraphQL\
-**:file_cabinet: Database:Database**: MongoDB (Mongoose), Redis, Firestore, MySQL, PostgreSQL\
+**:file_cabinet: Database:Database**: MongoDB, Redis, Firestore, MySQL, PostgreSQL\
+**:link: ORM**: Prisma, TypeORM, Mongoose
 **:building_construction: Infrastructure**: Docker, RabbitMQ, KONG API Gateway, Firebase, Supabase\
 **:arrows_counterclockwise: Workflow**: Git, GitHub, Postman, Jira, VS Code
 
